@@ -1,0 +1,17 @@
+instrument=MN36551
+position=
+flow_cell_id=FAP48412
+sample_id=C2020
+protocol_group_id=KIDH_01
+protocol=sequencing/sequencing_MIN106_DNA:FLO-MIN106:SQK-LSK109
+protocol_run_id=378c00ac-c642-4a1f-a167-524c471186dd
+acquisition_run_id=e78b393cae8ec468269f5fcfa954c3ff8bbb1344
+started=2021-03-10T21:51:17.158001+03:00
+acquisition_stopped=2021-03-11T08:10:02.933127+03:00
+processing_stopped=2021-03-11T08:10:08.473044+03:00
+basecalling_enabled=1
+sequencing_summary_file=sequencing_summary_FAP48412_e78b393c.txt
+fast5_files_in_final_dest=685
+fast5_files_in_fallback=0
+fastq_files_in_final_dest=685
+fastq_files_in_fallback=0
